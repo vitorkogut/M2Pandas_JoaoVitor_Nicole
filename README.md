@@ -1,5 +1,3 @@
-# M2Pandas_JoaoVitor_Nicole
-
 <h2> Trabalho M2 - Introdução à programação em Python </h2>
 <br>
 Dupla: João Vitor Specht Kogut e Nicole Migliorini Magagnin
